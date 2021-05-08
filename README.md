@@ -1,2 +1,2 @@
 # DragDropApplication
-Simple drag and drop application using PyQT5
+drag and drop application using PyQT5
